@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Infinity ❤️ Welcome",
+        "GUILD_ID": "753450479148728471",
+        "VOICE_CHANNEL": "804707968968163338",
+        "MIN_STAFF_ROLE": "754915037545758780"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "ODA2NjQ2NTEzMTExNDAwNTE4.YBseGw.CGZb_pas-g8OF0yEQktFxyx729k"
+}
